@@ -19,3 +19,7 @@ Kullanıcılar, metin girişi yapabilir ve hızlıca istedikleri dili seçerek �
 Dünya genelindeki kullanıcıların, farklı dillerdeki içeriklere erişme ve iletişim kurma ihtiyacını karşılamak için geliştirildi.
 Hem kişisel hem de iş amaçlı kullanımlar için mükemmel bir araç olarak tasarlandı.
 Bu uygulama, çoklu dil desteği sağlayarak küresel kullanıcılar için değerli bir çözüm sunuyor. Her türlü geri bildirimi dört gözle bekliyoruz ve paylaşarak bu projenin daha geniş bir kitleye ulaşmasına yardımcı olabilirsiniz. Teşekkürler!
+
+# ScreenShot
+
+![](translate.gif)
